@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://solid.engineer/solid/blog</id>
+    <id>https://solid.engineer/blog</id>
     <title>Solid: Programming in 3D Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://solid.engineer/solid/blog"/>
+    <link rel="alternate" href="https://solid.engineer/blog"/>
     <subtitle>Solid: Programming in 3D Blog</subtitle>
-    <icon>https://solid.engineer/solid/img/favicon.ico</icon>
+    <icon>https://solid.engineer/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://solid.engineer/solid/blog/welcome</id>
-        <link href="https://solid.engineer/solid/blog/welcome"/>
+        <id>https://solid.engineer/blog/welcome</id>
+        <link href="https://solid.engineer/blog/welcome"/>
         <updated>2019-05-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></summary>
         <content type="html"><![CDATA[<p>Blog features are powered by the blog plugin. Simply add files to the <code>blog</code> directory. It supports tags as well!</p><p>Delete the whole directory if you don't want the blog features. As simple as that!</p>]]></content>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello]]></title>
-        <id>https://solid.engineer/solid/blog/hello-world</id>
-        <link href="https://solid.engineer/solid/blog/hello-world"/>
+        <id>https://solid.engineer/blog/hello-world</id>
+        <link href="https://solid.engineer/blog/hello-world"/>
         <updated>2019-05-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to this blog. This blog is created with <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer"><strong>Docusaurus 2</strong></a>.</p><p>This is a test post.</p><p>A whole bunch of other information.</p>]]></content>
@@ -38,8 +38,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hola]]></title>
-        <id>https://solid.engineer/solid/blog/hola</id>
-        <link href="https://solid.engineer/solid/blog/hola"/>
+        <id>https://solid.engineer/blog/hola</id>
+        <link href="https://solid.engineer/blog/hola"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
         <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
